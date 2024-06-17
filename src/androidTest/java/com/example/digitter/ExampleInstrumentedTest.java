@@ -1,4 +1,4 @@
-package com.Alex-Berbescu278.sudokusolver;
+package com.Alex-Berbescu278.digitter;
 
 import org.junit.Test;
 
